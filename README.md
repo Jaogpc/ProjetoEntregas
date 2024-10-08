@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a0f23395-4a25-43e8-9daa-7f349372467a)
+
 # Projeto Sistema de distribuição e entrega de produtos em carros autônomos
 O projeto visa a implementação de um sistema de entregas com carros autônomos, uma solução inovadora que utiliza veículos equipados com tecnologia avançada de condução autônoma para agilizar e aprimorar o processo de entregas, reduzir custos operacionais e contribuir para a sustentabilidade ambiental.
 
